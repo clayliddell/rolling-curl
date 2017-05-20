@@ -1,10 +1,15 @@
 {
-    "name": "chuyskywalker/rolling-curl",
+    "name": "clayliddell/rolling-curl",
     "description": "Rolling-Curl: A non-blocking, non-dos multi-curl library for PHP",
     "type": "library",
     "keywords": ["multi", "curl", "parallel", "requests", "asynchronous", "http"],
-    "homepage": "https://github.com/chuyskywalker/rolling-curl",
+    "homepage": "https://github.com/clayliddell/rolling-curl",
     "authors": [
+        {
+            "name": "Clayton Liddell",
+            "homepage": "http://clayliddell.com/",
+            "role": "Developer"
+        },
         {
             "name": "Jeff Minard",
             "homepage": "http://jrm.cc/",

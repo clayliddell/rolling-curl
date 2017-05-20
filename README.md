@@ -3,6 +3,7 @@
 A cURL library to fetch a large number of resources while maintaining a consistent number of simultaneous connections
 
 Authors:
+ - Clayton Liddell (clayliddell.com)
  - Jeff Minard (jrm.cc)
  - Josh Fraser (joshfraser.com)
  - Alexander Makarov (rmcreative.ru)

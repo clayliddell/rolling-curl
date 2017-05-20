@@ -1,16 +1,17 @@
 <?php
 
 /**
- * A cURL library to fetch a large number of resources while only using
- * a limited number of simultaneous connections
+ * A cURL library to fetch a large number of resources while maintaining
+ * a consistent number of simultaneous connections
  *
  * @package RollingCurl
- * @version 1.0
+ * @version 3.1.1
+ * @author Clayton Liddell (http://clayliddell.com)
  * @author Jeff Minard (http://jrm.cc/)
  * @author Josh Fraser (www.joshfraser.com)
  * @author Alexander Makarov (http://rmcreative.ru/)
  * @license Apache License 2.0
- * @link https://github.com/chuyskywalker/rolling-curl
+ * @link https://github.com/clayliddell/rolling-curl
  */
 
 namespace RollingCurl;
