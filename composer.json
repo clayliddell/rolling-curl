@@ -35,6 +35,8 @@
         "lib-curl": "*"
     },
     "autoload": {
-        "psr-0": { "RollingCurl": "src/" }
+        "psr-4": {
+            "RollingCurl\\": "src/"
+        }
     }
 }
